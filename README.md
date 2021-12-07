@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi 👋 I'm Wassana ! 
+
+I'm a passionate web dev fullstack 👩‍💻 with a web analyst background 📊
+
+I'm also interested in Blockchain technology 🚀
 
 <!--
 **wassana7/wassana7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
