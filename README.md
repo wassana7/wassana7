@@ -2,12 +2,16 @@
 
 I'm a passionate web dev fullstack 👩‍💻 with a web analyst background 📊
 
+My fav tools :
+
+- Ruby & Ruby on Rails
+- Stimulus for Javascript
+- HTML/CSS for design
+- GA for data analysis
+
 I'm also interested in Blockchain technology 🚀
 
 <!--
-**wassana7/wassana7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
