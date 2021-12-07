@@ -1,4 +1,4 @@
-Hi 👋 I'm Wassana ! 
+## Hi 👋 I'm Wassana ! 
 
 I'm a passionate web dev fullstack 👩‍💻 with a web analyst background 📊
 
