@@ -2,7 +2,7 @@
 
 I'm a passionate web dev fullstack 👩‍💻 with a web analyst background 📊
 
-My fav tools :
+My fav tools ✨:
 
 - Ruby & Ruby on Rails
 - Stimulus for Javascript
