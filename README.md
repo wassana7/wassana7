@@ -1,8 +1,9 @@
-<img align="right" src="https://user-images.githubusercontent.com/88428826/145194498-23675af1-a4f6-40ee-81e5-0cdbd2511e12.png" width=30% height=30% align>
+<img align="right" src="https://user-images.githubusercontent.com/88428826/145194498-23675af1-a4f6-40ee-81e5-0cdbd2511e12.png" width=40% height=40% align>
 
 ## Hi 👋 I'm Wassana ! 
 
 I'm a passionate web dev fullstack 👩‍💻 with a web analyst background 📊
+
 My fav tools ✨:
 
 - Ruby & Ruby on Rails
