@@ -1,7 +1,8 @@
+<img align="left" src="https://user-images.githubusercontent.com/88428826/145194498-23675af1-a4f6-40ee-81e5-0cdbd2511e12.png" width=30% height=30% align>
+
 ## Hi 👋 I'm Wassana ! 
 
 I'm a passionate web dev fullstack 👩‍💻 with a web analyst background 📊
-
 My fav tools ✨:
 
 - Ruby & Ruby on Rails
@@ -9,7 +10,7 @@ My fav tools ✨:
 - HTML/CSS for design
 - GA for data analysis
 
-I'm also interested in Blockchain technology 🚀
+I'm also interested in Blockchain technology 🚀                                                                                                                                     
 
 <!--
 
